@@ -1,17 +1,17 @@
 ## index.hbs
 
-tagline = Uma linguagem empoderando a todos { $linebreak } a construir softwares confiáveis e eficientes.
+tagline = Uma linguagem empoderando todos { $linebreak } a construir softwares confiáveis e eficientes.
 get-started = Comece Agora
 homepage-version = Versão { $number }
 
 ## components/panels/production.hbs
 
 production-title = Rust em produção
-production-blurb = Centenas de empresas ao redor do mundo já estão usando Rust em produção para criar solução multiplataforma rápidas e eficientes. Software que você conhece e ama, como <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>, <a href="https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/">Dropbox</a>, e <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a> usam Rust. <strong>De startups a grandes corporações, de sistemas embarcados a serviços web escaláveis, Rust é uma ótima escolha.</strong>
+production-blurb = Centenas de empresas ao redor do mundo já estão usando Rust em produção para criar soluções multiplataforma rápidas e eficientes. Software que você conhece e ama, como <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>, <a href="https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/">Dropbox</a>, e <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a> usam Rust. <strong>De startups a grandes corporações, de sistemas embarcados a serviços web escaláveis, Rust é uma ótima escolha.</strong>
 production-testimonial-npm = Meu maior elogio a Rust é que ela é entediante, e isso é um elogio incrível.
 production-testimonial-npm-attribution = Chris Dickinson, Engenheiro na npm, Inc
 production-testimonial-npm-alt = Logo da npm
-production-testimonial-yelp = Toda a documentação, ferramentas, e comunidade é ótima - você possui todas as ferramentas para escreve código Rust com sucesso.
+production-testimonial-yelp = Toda a documentação, ferramentas, e comunidade é ótima - você possui todas as ferramentas para escrever código Rust com sucesso.
 production-testimonial-yelp-attribution = Antonio Verardi, Engenheiro de Infraestrutura
 production-testimonial-yelp-alt = Logo da Yelp
 
@@ -60,5 +60,5 @@ get-involved-watch-rust = Assista Rust
 get-involved-watch-rust-blurb = A Comunidade Rust possui um canal no YouTube dedicado a colecionar uma vasta quantidade de apresentações e tutoriais.
 get-involved-watch-rust-link = Assista os Vídeos
 get-involved-contribute = Contribua código
-get-involved-contribute-blurb = Rust realmente é um esforço comunitário, e nós aceitamos contribuições vindas de amadores a profissionais, e de iniciantes a especialistas. Nos ajude a tornar a experiência com Rust ainda melhor!
+get-involved-contribute-blurb = Rust realmente é um esforço comunitário, e nós aceitamos contribuições vindas de amadores a profissionais; de iniciantes a especialistas. Nos ajude a tornar a experiência com Rust ainda melhor!
 get-involved-contribute-link = Leia o Guia de Contribuição
